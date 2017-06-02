@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMViewtype folder="/Sites/@contentpath@/Options/Viewtypes/CMChannel" name="medialist" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<description>Show multiple Articles as a List with small Preview Images.</description>
+<icon href="medialist.icon.png" mimetype="image/png"/>
+<layout>medialist</layout>
+</CMViewtype>

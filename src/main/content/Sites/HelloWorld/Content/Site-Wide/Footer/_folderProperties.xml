@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMFolderProperties folder="/Sites/@contentpath@/Content/Site-Wide/Footer" name="_folderProperties" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<contexts><link href="Information-Page.xml" path="/Sites/@contentpath@/Content/Site-Wide/Footer/Information-Page"/></contexts>
+</CMFolderProperties>

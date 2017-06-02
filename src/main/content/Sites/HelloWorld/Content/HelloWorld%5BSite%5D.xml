@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSite folder="/Sites/@contentpath@/Content" name="@sitetitle@[Site]" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<id>@siteid@</id>
+<name>@sitetitle@</name>
+<root><link href="Homepage/Homepage.xml" path="/Sites/@contentpath@/Content/Homepage/Homepage"/></root>
+<siteManagerGroup>manager-c-en-US</siteManagerGroup>
+<linkedSettings><link href="../Options/Settings/SiteSettings.xml" path="/Sites/@contentpath@/Options/Settings/SiteSettings"/></linkedSettings>
+</CMSite>

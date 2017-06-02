@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMFolderProperties folder="/Sites/@contentpath@/Content/Homepage/Level 1-2" name="_folderProperties" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<contexts><link href="Navigation-Level%201-2.xml" path="/Sites/@contentpath@/Content/Homepage/Level%201-2/Navigation-Level%201-2"/></contexts>
+</CMFolderProperties>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSymbol folder="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements" name="sidebar" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<description>Sidebar</description>
+</CMSymbol>

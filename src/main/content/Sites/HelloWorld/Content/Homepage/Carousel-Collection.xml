@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMCollection folder="/Sites/@contentpath@/Content/Homepage" name="Carousel-Collection" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype><link href="../../Options/Viewtypes/CMChannel/carousel.xml" path="/Sites/@contentpath@/Options/Viewtypes/CMChannel/carousel"/></viewtype>
+<linkedSettings/>
+<resourceBundles2/>
+<segment></segment>
+<title></title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription></htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle>Carousel</teaserTitle>
+<pictures/>
+<related/>
+<items><link href="Level%201-1/CarouselArticle1.xml" path="/Sites/@contentpath@/Content/Homepage/Level%201-1/CarouselArticle1"/><link href="Level%201-1/CarouselArticle2.xml" path="/Sites/@contentpath@/Content/Homepage/Level%201-1/CarouselArticle2"/></items>
+</CMCollection>

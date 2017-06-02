@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMArticle folder="/Sites/@contentpath@/Content/Homepage/Level 1-1" name="LevelArticle" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<linkedSettings/>
+<resourceBundles2/>
+<segment></segment>
+<title>Navigation Sub-Level Article Document</title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription></htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle></teaserTitle>
+<teaserText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <p>Level Article Teaser Text.</p>
+  </div></teaserText>
+<detailText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <p>Level Article Details Text.</p>
+  </div></detailText>
+<pictures><link href="../../../Assets/Images/image.xml" path="/Sites/@contentpath@/Assets/Images/image"/></pictures>
+<related/>
+</CMArticle>

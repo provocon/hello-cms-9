@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMChannel folder="/Sites/@contentpath@/Content/Homepage" name="Homepage" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<localSettings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<StringListProperty Name="placementsWithFirstItemAsHeader">
+<String>placement2</String>
+</StringListProperty>
+</Struct></localSettings>
+<linkedSettings><link href="../../Options/Settings/CAEConfig.xml" path="/Sites/@contentpath@/Options/Settings/CAEConfig"/><link href="../../Options/Settings/Responsive%20Image%20Settings.xml" path="/Sites/@contentpath@/Options/Settings/Responsive%20Image%20Settings"/><link href="../../Options/Settings/Robots%2Etxt.xml" path="/Sites/@contentpath@/Options/Settings/Robots%2Etxt"/><link href="../../Options/Settings/Preview.xml" path="/Sites/@contentpath@/Options/Settings/Preview"/><link href="../../Options/Settings/Google%20Analytics%20Settings.xml" path="/Sites/@contentpath@/Options/Settings/Google%20Analytics%20Settings"/><link href="../../Options/Settings/SearchConfiguration.xml" path="/Sites/@contentpath@/Options/Settings/SearchConfiguration"/></linkedSettings>
+<resourceBundles2/>
+<segment>@rootsegment@</segment>
+<title>Home</title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription>@sitetitle@</htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle>Home</teaserTitle>
+<teaserText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p/></div></teaserText>
+<pictures/>
+<related/>
+<children><link href="Level%201-1/Navigation-Level%201-1.xml" path="/Sites/@contentpath@/Content/Homepage/Level%201-1/Navigation-Level%201-1"/><link href="Level%201-2/Navigation-Level%201-2.xml" path="/Sites/@contentpath@/Content/Homepage/Level%201-2/Navigation-Level%201-2"/><link href="../Site-Wide/Footer/Information-Page.xml" path="/Sites/@contentpath@/Content/Site-Wide/Footer/Information-Page"/><link href="../Site-Wide/404-Page/Custom%20404-Page.xml" path="/Sites/@contentpath@/Content/Site-Wide/404-Page/Custom%20404-Page"/><link href="Searchresult.xml" path="/Sites/@contentpath@/Content/Homepage/Searchresult"/></children>
+<hidden>1</hidden>
+<hiddenInSitemap>1</hiddenInSitemap>
+<javaScript/>
+<css/>
+<theme><link href="../../../../Themes/corporate/Corporate%20Theme.xml" path="/Themes/corporate/Corporate%20Theme"/></theme>
+<favicon href="Homepage.favicon.x-icon" mimetype="image/x-icon"/>
+<placement><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<StructProperty Name="placements_2">
+<Struct>
+<LinkProperty Name="layout" LinkType="coremedia:///cap/contenttype/Document_" xlink:href="coremedia:///cap/resources/../../Options/Settings/Pagegrid/Layouts/Homepage.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Layouts/Homepage"/>
+<StructProperty Name="placements">
+<Struct>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+<StructListProperty Name="placements">
+<Struct>
+<LinkListProperty Name="items" LinkType="coremedia:///cap/contenttype/CMTeasable">
+<Link xlink:href="coremedia:///cap/resources/../Site-Wide/External_HTML-Fragments/Embedding%20-%20Beginning%20of%20Page.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/External_HTML-Fragments/Embedding%20-%20Beginning%20of%20Page"/>
+<Link xlink:href="coremedia:///cap/resources/../Site-Wide/External_HTML-Fragments/Optimizely%20JS.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/External_HTML-Fragments/Optimizely%20JS"/>
+</LinkListProperty>
+<BooleanProperty Name="locked">false</BooleanProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../../Options/Settings/Pagegrid/Placements/header.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/header"/>
+</Struct>
+<Struct>
+<LinkListProperty Name="items" LinkType="coremedia:///cap/contenttype/CMTeasable">
+<Link xlink:href="coremedia:///cap/resources/../Site-Wide/Footer/Imprint-Article.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/Footer/Imprint-Article"/>
+<Link xlink:href="coremedia:///cap/resources/../Site-Wide/Footer/Contact/Contact-Page.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/Footer/Contact/Contact-Page"/>
+<Link xlink:href="coremedia:///cap/resources/../Site-Wide/Footer/Cookies.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/Footer/Cookies"/>
+<Link xlink:href="coremedia:///cap/resources/../Site-Wide/Footer/Sitemap/Sitemap-Page.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/Footer/Sitemap/Sitemap-Page"/>
+<Link xlink:href="coremedia:///cap/resources/../Site-Wide/External_HTML-Fragments/Embedding%20-%20End%20of%20Page.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/External_HTML-Fragments/Embedding%20-%20End%20of%20Page"/>
+</LinkListProperty>
+<BooleanProperty Name="locked">false</BooleanProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../../Options/Settings/Pagegrid/Placements/footer.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/footer"/>
+</Struct>
+<Struct>
+<LinkListProperty Name="items" LinkType="coremedia:///cap/contenttype/CMTeasable">
+<Link xlink:href="coremedia:///cap/resources/Superhero-Teaser.xml" cmexport:path="/Sites/@contentpath@/Content/Homepage/Superhero-Teaser"/>
+</LinkListProperty>
+<LinkProperty Name="viewtype" LinkType="coremedia:///cap/contenttype/CMViewtype" xlink:href="coremedia:///cap/resources/../../Options/Viewtypes/CMChannel/superhero.xml" cmexport:path="/Sites/@contentpath@/Options/Viewtypes/CMChannel/superhero"/>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../../Options/Settings/Pagegrid/Placements/hero.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/hero"/>
+</Struct>
+<Struct>
+<LinkListProperty Name="items" LinkType="coremedia:///cap/contenttype/CMTeasable">
+<Link xlink:href="coremedia:///cap/resources/Carousel-Collection.xml" cmexport:path="/Sites/@contentpath@/Content/Homepage/Carousel-Collection"/>
+</LinkListProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../../Options/Settings/Pagegrid/Placements/placement1.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/placement1"/>
+</Struct>
+<Struct>
+<LinkListProperty Name="items" LinkType="coremedia:///cap/contenttype/CMTeasable">
+</LinkListProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../../Options/Settings/Pagegrid/Placements/placement2.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/placement2"/>
+</Struct>
+<Struct>
+<LinkListProperty Name="items" LinkType="coremedia:///cap/contenttype/CMTeasable">
+<Link xlink:href="coremedia:///cap/resources/../Site-Wide/External_HTML-Fragments/AddThis%20Social%20Sharing.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/External_HTML-Fragments/AddThis%20Social%20Sharing"/>
+</LinkListProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../../Options/Settings/Pagegrid/Placements/placement3.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/placement3"/>
+</Struct>
+</StructListProperty>
+</Struct></placement>
+<header/>
+<footer/>
+</CMChannel>

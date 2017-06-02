@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMArticle folder="/Sites/@contentpath@/Content/Site-Wide/Footer" name="Imprint-Article" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<linkedSettings/>
+<resourceBundles2/>
+<segment>impressum</segment>
+<title>Imprint</title>
+<htmlTitle></htmlTitle>
+<keywords>CoreMedia imprint</keywords>
+<htmlDescription></htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle>Imprint</teaserTitle>
+<teaserText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p>This is a minimal HelloWorld website for CoreMedia CMS-9</p></div></teaserText>
+<detailText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p>This is a HelloWorld website for<br/></p><p class="p--heading-2">CoreMedia CMS-9</p><p>as a minimal content set or a starting point.</p><p>Provided by <a xlink:actuate="onRequest" xlink:href="http://provocon.de/" xlink:show="new" xlink:type="simple">PROVOCON</a>.</p></div></detailText>
+<pictures/>
+<notSearchable>1</notSearchable>
+<related/>
+</CMArticle>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMChannel folder="/Sites/@contentpath@/Content/Site-Wide/Footer" name="Information-Page" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<linkedSettings/>
+<resourceBundles2/>
+<segment>corporate-information</segment>
+<title>Information</title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription>Find all relevant information about the Hello in the World.</htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle></teaserTitle>
+<pictures/>
+<related/>
+<children><link href="Sitemap/Sitemap-Page.xml" path="/Sites/@contentpath@/Content/Site-Wide/Footer/Sitemap/Sitemap-Page"/><link href="Contact/Contact-Page.xml" path="/Sites/@contentpath@/Content/Site-Wide/Footer/Contact/Contact-Page"/></children>
+<hidden>1</hidden>
+<javaScript/>
+<css/>
+<theme/>
+<placement><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<StructProperty Name="placements_2">
+<Struct>
+<LinkProperty Name="layout" LinkType="coremedia:///cap/contenttype/Document_" xlink:href="coremedia:///cap/resources/../../../Options/Settings/Pagegrid/Layouts/PagegridNavigation.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Layouts/PagegridNavigation"/>
+<StructProperty Name="placements">
+<Struct>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+<StructListProperty Name="placements">
+<Struct>
+<LinkListProperty Name="items" LinkType="coremedia:///cap/contenttype/CMTeasable">
+</LinkListProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../../../Options/Settings/Pagegrid/Placements/above.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/above"/>
+</Struct>
+<Struct>
+<LinkListProperty Name="items" LinkType="coremedia:///cap/contenttype/CMTeasable">
+<Link xlink:href="coremedia:///cap/resources/Imprint-Article.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/Footer/Imprint-Article"/>
+<Link xlink:href="coremedia:///cap/resources/Contact/Contact-Page.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/Footer/Contact/Contact-Page"/>
+<Link xlink:href="coremedia:///cap/resources/Cookies.xml" cmexport:path="/Sites/@contentpath@/Content/Site-Wide/Footer/Cookies"/>
+</LinkListProperty>
+<LinkProperty Name="viewtype" LinkType="coremedia:///cap/contenttype/CMViewtype" xlink:href="coremedia:///cap/resources/../../../Options/Viewtypes/CMChannel/medialist.xml" cmexport:path="/Sites/@contentpath@/Options/Viewtypes/CMChannel/medialist"/>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../../../Options/Settings/Pagegrid/Placements/main.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/main"/>
+</Struct>
+<Struct>
+<LinkListProperty Name="items" LinkType="coremedia:///cap/contenttype/CMTeasable">
+</LinkListProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../../../Options/Settings/Pagegrid/Placements/below.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/below"/>
+</Struct>
+</StructListProperty>
+</Struct></placement>
+<header/>
+<footer/>
+</CMChannel>

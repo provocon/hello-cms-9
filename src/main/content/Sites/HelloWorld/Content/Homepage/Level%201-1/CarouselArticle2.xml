@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMArticle folder="/Sites/@contentpath@/Content/Homepage/Level 1-1" name="CarouselArticle2" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<linkedSettings/>
+<resourceBundles2/>
+<segment></segment>
+<title>Hello Article</title>
+<htmlTitle>The @sitetitle@ Article</htmlTitle>
+<keywords></keywords>
+<htmlDescription>Article Document to illustrate usage of an Article on a Channel</htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle></teaserTitle>
+<teaserText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <p>@sitetitle@ Article Teaser Text.</p>
+  </div></teaserText>
+<detailText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <p>
+      This is the @sitetitle@ Article with its famous detail text.
+    </p>
+  </div></detailText>
+<pictures><link href="../../../Assets/Images/image.xml" path="/Sites/@contentpath@/Assets/Images/image"/></pictures>
+<related/>
+</CMArticle>

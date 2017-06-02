@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMPicture folder="/Sites/@contentpath@/Assets/Images" name="image" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<localSettings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<StructProperty Name="transforms">
+<Struct>
+<StringProperty Name="portrait_ratio3x4">b;a=0;c=1/crop;x=87;y=0;width=135;height=180</StringProperty>
+<StringProperty Name="portrait_ratio1x1">b;a=0;c=1/crop;x=65;y=0;width=180;height=180</StringProperty>
+<StringProperty Name="landscape_ratio4x3">b;a=0;c=1/crop;x=35;y=0;width=240;height=180</StringProperty>
+<StringProperty Name="landscape_ratio5x2">b;a=0;c=1/crop;x=0;y=28;width=310;height=124</StringProperty>
+<StringProperty Name="landscape_ratio4x1">b;a=0;c=1/crop;x=0;y=51;width=310;height=78</StringProperty>
+<StringProperty Name="landscape_ratio16x9">b;a=0;c=1/crop;x=0;y=3;width=310;height=174</StringProperty>
+</Struct>
+</StructProperty>
+</Struct></localSettings>
+<linkedSettings/>
+<resourceBundles2/>
+<segment></segment>
+<title>Single Image Asset</title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription></htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle></teaserTitle>
+<detailText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <p>
+      <br/>
+    </p>
+  </div></detailText>
+<pictures/>
+<related/>
+<alt></alt>
+<copyright></copyright>
+<dataUrl></dataUrl>
+<width>640</width>
+<height>360</height>
+<data href="image.data.jpeg" mimetype="image/jpeg"/>
+<asset/>
+</CMPicture>

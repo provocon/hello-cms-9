@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMTeaser folder="/Sites/@contentpath@/Content/Site-Wide/404-Page" name="Custom 404-Hero-Teaser" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype><link href="../../../Options/Viewtypes/CMChannel/full-details.xml" path="/Sites/@contentpath@/Options/Viewtypes/CMChannel/full-details"/></viewtype>
+<localSettings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<BooleanProperty Name="callToActionDisabled">true</BooleanProperty>
+<StringProperty Name="callToActionCustomText"/>
+</Struct></localSettings>
+<linkedSettings/>
+<resourceBundles2/>
+<segment></segment>
+<title></title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription></htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle></teaserTitle>
+<pictures><link href="Custom%20404-Picture.xml" path="/Sites/@contentpath@/Content/Site-Wide/404-Page/Custom%20404-Picture"/></pictures>
+<related/>
+<target/>
+</CMTeaser>

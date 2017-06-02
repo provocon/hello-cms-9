@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSettings folder="/Sites/@contentpath@/Options/Settings" name="@sitetitle@_de" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<settings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<StringProperty Name="footer_text">@shorttitle@</StringProperty>
+</Struct></settings>
+<identifier></identifier>
+</CMSettings>

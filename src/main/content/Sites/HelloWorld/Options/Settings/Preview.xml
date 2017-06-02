@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSettings folder="/Sites/@contentpath@/Options/Settings" name="Preview" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<settings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<LinkListProperty Name="studioPreviewCss" LinkType="coremedia:///cap/contenttype/CMCSS">
+</LinkListProperty>
+<LinkListProperty Name="studioPreviewJs" LinkType="coremedia:///cap/contenttype/CMJavaScript">
+</LinkListProperty>
+<LinkListProperty Name="previewCss" LinkType="coremedia:///cap/contenttype/CMCSS">
+</LinkListProperty>
+<LinkListProperty Name="previewJs" LinkType="coremedia:///cap/contenttype/CMJavaScript">
+</LinkListProperty>
+</Struct></settings>
+<identifier></identifier>
+</CMSettings>

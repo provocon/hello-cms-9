@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMCollection folder="/Sites/@contentpath@/Content/Site-Wide/404-Page" name="Custom 404-Collection" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype><link href="../../../Options/Viewtypes/CMChannel/medialist.xml" path="/Sites/@contentpath@/Options/Viewtypes/CMChannel/medialist"/></viewtype>
+<linkedSettings/>
+<resourceBundles2/>
+<segment></segment>
+<title></title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription></htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle></teaserTitle>
+<pictures/>
+<related/>
+<items><link href="../Footer/Contact/Contact-Page.xml" path="/Sites/@contentpath@/Content/Site-Wide/Footer/Contact/Contact-Page"/><link href="../Footer/Sitemap/Sitemap-Page.xml" path="/Sites/@contentpath@/Content/Site-Wide/Footer/Sitemap/Sitemap-Page"/></items>
+</CMCollection>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSettings folder="/Sites/@contentpath@/Options/Settings" name="Responsive Image Settings" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<settings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<BooleanProperty Name="enableRetinaImages">true</BooleanProperty>
+<StructProperty Name="responsiveImageSettings">
+<Struct>
+<StructProperty Name="portrait_ratio3x4">
+<Struct>
+<IntProperty Name="widthRatio">3</IntProperty>
+<IntProperty Name="heightRatio">4</IntProperty>
+<IntProperty Name="minWidth">320</IntProperty>
+<IntProperty Name="minHeight">427</IntProperty>
+<IntProperty Name="previewWidth">320</IntProperty>
+<StructProperty Name="0">
+<Struct>
+<IntProperty Name="width">320</IntProperty>
+<IntProperty Name="height">427</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="1">
+<Struct>
+<IntProperty Name="width">375</IntProperty>
+<IntProperty Name="height">500</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="2">
+<Struct>
+<IntProperty Name="width">414</IntProperty>
+<IntProperty Name="height">552</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="3">
+<Struct>
+<IntProperty Name="width">768</IntProperty>
+<IntProperty Name="height">1024</IntProperty>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="portrait_ratio1x1">
+<Struct>
+<IntProperty Name="widthRatio">1</IntProperty>
+<IntProperty Name="heightRatio">1</IntProperty>
+<IntProperty Name="minWidth">97</IntProperty>
+<IntProperty Name="minHeight">97</IntProperty>
+<IntProperty Name="previewWidth">97</IntProperty>
+<StructProperty Name="0">
+<Struct>
+<IntProperty Name="width">97</IntProperty>
+<IntProperty Name="height">97</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="1">
+<Struct>
+<IntProperty Name="width">110</IntProperty>
+<IntProperty Name="height">110</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="2">
+<Struct>
+<IntProperty Name="width">152</IntProperty>
+<IntProperty Name="height">152</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="3">
+<Struct>
+<IntProperty Name="width">176</IntProperty>
+<IntProperty Name="height">176</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="4">
+<Struct>
+<IntProperty Name="width">207</IntProperty>
+<IntProperty Name="height">207</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="5">
+<Struct>
+<IntProperty Name="width">290</IntProperty>
+<IntProperty Name="height">290</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="6">
+<Struct>
+<IntProperty Name="width">345</IntProperty>
+<IntProperty Name="height">345</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="7">
+<Struct>
+<IntProperty Name="width">555</IntProperty>
+<IntProperty Name="height">555</IntProperty>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="landscape_ratio4x3">
+<Struct>
+<IntProperty Name="widthRatio">4</IntProperty>
+<IntProperty Name="heightRatio">3</IntProperty>
+<IntProperty Name="minWidth">320</IntProperty>
+<IntProperty Name="minHeight">240</IntProperty>
+<IntProperty Name="previewWidth">320</IntProperty>
+<StructProperty Name="0">
+<Struct>
+<IntProperty Name="width">320</IntProperty>
+<IntProperty Name="height">240</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="1">
+<Struct>
+<IntProperty Name="width">375</IntProperty>
+<IntProperty Name="height">281</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="2">
+<Struct>
+<IntProperty Name="width">414</IntProperty>
+<IntProperty Name="height">310</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="3">
+<Struct>
+<IntProperty Name="width">500</IntProperty>
+<IntProperty Name="height">375</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="4">
+<Struct>
+<IntProperty Name="width">768</IntProperty>
+<IntProperty Name="height">576</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="5">
+<Struct>
+<IntProperty Name="width">1000</IntProperty>
+<IntProperty Name="height">750</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="6">
+<Struct>
+<IntProperty Name="width">1200</IntProperty>
+<IntProperty Name="height">900</IntProperty>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="landscape_ratio5x2">
+<Struct>
+<IntProperty Name="widthRatio">5</IntProperty>
+<IntProperty Name="heightRatio">2</IntProperty>
+<IntProperty Name="minWidth">768</IntProperty>
+<IntProperty Name="minHeight">307</IntProperty>
+<IntProperty Name="previewWidth">500</IntProperty>
+<StructProperty Name="0">
+<Struct>
+<IntProperty Name="width">768</IntProperty>
+<IntProperty Name="height">307</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="1">
+<Struct>
+<IntProperty Name="width">1000</IntProperty>
+<IntProperty Name="height">400</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="2">
+<Struct>
+<IntProperty Name="width">1024</IntProperty>
+<IntProperty Name="height">410</IntProperty>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="landscape_ratio4x1">
+<Struct>
+<IntProperty Name="widthRatio">4</IntProperty>
+<IntProperty Name="heightRatio">1</IntProperty>
+<IntProperty Name="minWidth">1200</IntProperty>
+<IntProperty Name="minHeight">300</IntProperty>
+<IntProperty Name="previewWidth">400</IntProperty>
+<StructProperty Name="0">
+<Struct>
+<IntProperty Name="width">1200</IntProperty>
+<IntProperty Name="height">300</IntProperty>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="landscape_ratio16x9">
+<Struct>
+<IntProperty Name="widthRatio">16</IntProperty>
+<IntProperty Name="heightRatio">9</IntProperty>
+<IntProperty Name="minWidth">320</IntProperty>
+<IntProperty Name="minHeight">180</IntProperty>
+<IntProperty Name="previewWidth">320</IntProperty>
+<StructProperty Name="0">
+<Struct>
+<IntProperty Name="width">320</IntProperty>
+<IntProperty Name="height">180</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="1">
+<Struct>
+<IntProperty Name="width">375</IntProperty>
+<IntProperty Name="height">211</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="2">
+<Struct>
+<IntProperty Name="width">414</IntProperty>
+<IntProperty Name="height">233</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="3">
+<Struct>
+<IntProperty Name="width">600</IntProperty>
+<IntProperty Name="height">338</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="4">
+<Struct>
+<IntProperty Name="width">1200</IntProperty>
+<IntProperty Name="height">675</IntProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="5">
+<Struct>
+<IntProperty Name="width">1920</IntProperty>
+<IntProperty Name="height">1080</IntProperty>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+</Struct></settings>
+<identifier></identifier>
+</CMSettings>

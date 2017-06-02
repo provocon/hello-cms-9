@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSettings folder="/Sites/@contentpath@/Options/Settings" name="Google Analytics Settings" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<settings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<StructProperty Name="elasticSocial">
+<Struct>
+<StringProperty Name="tenant">corporate-en-us</StringProperty>
+</Struct>
+</StructProperty>
+<StringProperty Name="analyticsProvider">googleAnalytics</StringProperty>
+<StructProperty Name="googleAnalytics">
+<Struct>
+<IntProperty Name="pageViewHistoryInterval">60</IntProperty>
+<StringProperty Name="pageReport">content-pages</StringProperty>
+<IntProperty Name="accountId">61233309</IntProperty>
+<IntProperty Name="wpid">95874499</IntProperty>
+<IntProperty Name="pid">99979990</IntProperty>
+<StringProperty Name="webPropertyId">UA-61233309-1</StringProperty>
+<StringProperty Name="domainName">auto</StringProperty>
+<StringProperty Name="applicationName">corporate-site</StringProperty>
+<IntProperty Name="interval">120</IntProperty>
+<IntProperty Name="limit">9999</IntProperty>
+</Struct>
+</StructProperty>
+</Struct></settings>
+<identifier></identifier>
+</CMSettings>

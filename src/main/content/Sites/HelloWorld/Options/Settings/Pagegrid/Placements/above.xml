@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSymbol folder="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements" name="above" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<description>Above Main Placement</description>
+</CMSymbol>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMChannel folder="/Sites/@contentpath@/Content/Homepage/Level 1-2/Level 1-2-2" name="Navigation-Level 1-2-2" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<localSettings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+</Struct></localSettings>
+<linkedSettings/>
+<resourceBundles2/>
+<segment>level1-2-2</segment>
+<title>Navigation Level 1-2-2</title>
+<htmlTitle>Navigation Level 1-2-2</htmlTitle>
+<keywords></keywords>
+<htmlDescription>Level 1 sublevel 2 and sub-sub level 2 of the Navigation</htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle>Level 1-2-2</teaserTitle>
+<teaserText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <p>Teaser Text Navigation Level 1-2-1</p>
+  </div></teaserText>
+<pictures/>
+<related/>
+<children/>
+<javaScript/>
+<css/>
+<theme/>
+<placement><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<StructProperty Name="placements_2">
+<Struct>
+<LinkProperty Name="layout" LinkType="coremedia:///cap/contenttype/Document_" xlink:href="coremedia:///cap/resources/../../../../Options/Settings/Pagegrid/Layouts/Detail-Page%20with%20Sidebar.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Layouts/Detail-Page%20with%20Sidebar"/>
+<StructProperty Name="placements">
+<Struct>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+<StructListProperty Name="placements">
+</StructListProperty>
+</Struct></placement>
+<header/>
+<footer/>
+</CMChannel>

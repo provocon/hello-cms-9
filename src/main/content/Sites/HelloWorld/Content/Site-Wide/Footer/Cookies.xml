@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMArticle folder="/Sites/@contentpath@/Content/Site-Wide/Footer" name="Cookies" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<linkedSettings/>
+<resourceBundles2/>
+<segment>cookies</segment>
+<title>Cookies In Use On This Site</title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription></htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle>Cookies </teaserTitle>
+<teaserText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <p>Our website uses cookies, as almost all websites do, to help provide you with the best experience we can.</p>
+  </div></teaserText>
+<detailText grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <p class="p--heading-2">Cookies and how they benefit You</p>
+    <p>Our website uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.</p>
+    <p>Our cookies help us:</p>
+    <ul>
+      <li>Make our website work as you'd expect
+      </li><li>Remember your settings during and between visits
+      </li><li>Improve the speed/security of the site
+      </li><li>Allow you to share pages with social networks like Facebook
+      </li><li>Personalise our site to you to help you get what you need faster
+      </li><li>Continuously improve our website for you
+      </li><li>Make our marketing more efficient (ultimately helping us to offer the service we do at the price we do)
+    </li></ul>
+    <p>We do not use cookies to:</p>
+    <ul>
+      <li>Collect any personally identifiable information (without your express permission)
+      </li><li>Collect any sensitive information (without your express permission)
+      </li><li>Pass data to advertising networks
+      </li><li>Pass personally identifiable data to third parties
+      </li><li>Pay sales commissions
+    </li></ul>
+    <p>You can learn more about all the cookies we use below.</p>
+    <p class="p--heading-2">Granting us permission to use cookies</p>
+    <p>If the settings on your software that you are using to view this website (your browser) are adjusted to accept cookies we take this, and your continued use of our website, to mean that you are fine with this. Should you wish to remove or not use cookies from our site you can learn how to do this below, however doing so will likely mean that our site will not work as you would expect.</p>
+    <p class="p--heading-2">More about our Cookies</p>
+    <p class="p--heading-3">Website Function Cookies</p>
+    <p class="p--heading-3">Our own cookies</p>
+    <p>We use cookies to make our website work including:</p>
+    <ul>
+      <li>Remembering your search settings
+      </li><li>Tailoring content to your needs
+    </li></ul>
+    <p>There is no way to prevent these cookies being set other than to not use our site.</p>
+    <p class="p--heading-3">Third party function</p>
+    <p/>
+    <p>Our site, like most websites, includes functionality provided by third parties. A common example is an embedded YouTube video. Our site includes the following which use cookies:</p>
+    <ul>
+      <li>Video: YouTube
+      </li><li>Video: Vimeo
+      </li><li>Pinterest Boards
+      </li><li>Twitter Timelines
+    </li></ul>
+    <p>Disabling these cookies will likely break the functions offered by these third parties.</p>
+    <p class="p--heading-3">Social Website Cookies</p>
+    <p>So you can easily "Like"? or share our content on the likes of Facebook and Twitter we have included sharing buttons on our site.<br/>Cookies are set by:</p>
+    <ul>
+      <li>Facebook
+      </li><li>Twitter
+      </li><li>Google+
+      </li><li>LinkedIn
+    </li></ul>
+    <p>The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.</p>
+    <p class="p--heading-3">Site Improvement Cookies</p>
+    <p>We regularly test new designs or site features on our site. We do this by showing slightly different versions of our website to different people and anonymously monitoring how our site visitors respond to these different versions. Ultimately this helps us to offer you a better website.<br/>We use:</p>
+    <ul>
+      <li>Optimizely
+    </li></ul>
+    <p class="p--heading-3">Anonymous Visitor Statistics Cookies</p>
+    <p>We use cookies to compile visitor statistics such as how many people have visited our website, what type of technology they are using (e.g. Mac or Windows which helps to identify when our site isn't working as it should for particular technologies), how long they spend on the site, what page they look at etc. This helps us to continuously improve our website. These so called "analytics"  programs also tell us if , on an anonymous basis, how people reached this site (e.g. from a search engine) and whether they have been here before helping us to put more money into developing our services for you instead of marketing spend.<br/>We use:</p>
+    <ul>
+      <li>Google Analytics
+    </li></ul>
+    <p class="p--heading-2">Turning Cookies Off</p>
+    <p>You can usually switch cookies off by adjusting your browser settings to stop it from accepting cookies (Learn how here). Doing so however will likely limit the functionality of our's and a large proportion of the world's websites as cookies are a standard part of most modern websites.</p>
+    <p>It may be that you concerns around cookies relate to so called "spyware". Rather than switching off cookies in your browser you may find that anti­spyware software achieves the same objective by automatically deleting cookies considered to be invasive. Learn more about managing cookies with antispyware software.</p>
+    <p>
+      <br/>
+    </p>
+    <p>This sample Cookie Policy is based on the <a xlink:href="http://www.attacat.co.uk/resources/cookies" xlink:show="new" xlink:type="simple">Attacat Cookie Audit Tool</a></p>
+  </div></detailText>
+<pictures/>
+<notSearchable>1</notSearchable>
+<related/>
+</CMArticle>

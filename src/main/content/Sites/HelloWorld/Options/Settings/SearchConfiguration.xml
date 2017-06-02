@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSettings folder="/Sites/@contentpath@/Options/Settings" name="SearchConfiguration" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<settings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<LinkProperty Name="searchChannel" LinkType="coremedia:///cap/contenttype/Content_" xlink:href="coremedia:///cap/resources/../../Content/Homepage/Searchresult.xml" cmexport:path="/Sites/@contentpath@/Content/Homepage/Searchresult"/>
+<LinkProperty Name="searchAction" LinkType="coremedia:///cap/contenttype/CMAction" xlink:href="coremedia:///cap/resources/Actions/SearchAction.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Actions/SearchAction"/>
+<IntProperty Name="search.result.hitsPerPage">50</IntProperty>
+<StringListProperty Name="search.doctypeselect">
+<String>CMArticle</String>
+<String>CMAudio</String>
+<String>CMCategory</String>
+<String>CMChannel</String>
+<String>CMDownload</String>
+<String>CMGallery</String>
+<String>CMProduct</String>
+<String>CMSitemap</String>
+<String>CMVideo</String>
+</StringListProperty>
+<StringProperty Name="caefeederSiteConfiguration">corporate</StringProperty>
+</Struct></settings>
+<identifier></identifier>
+</CMSettings>

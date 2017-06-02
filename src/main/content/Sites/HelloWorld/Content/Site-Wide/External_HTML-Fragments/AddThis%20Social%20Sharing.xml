@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMHTML folder="/Sites/@contentpath@/Content/Site-Wide/External_HTML-Fragments" name="AddThis Social Sharing" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<linkedSettings/>
+<resourceBundles2/>
+<segment></segment>
+<title></title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription></htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle></teaserTitle>
+<pictures/>
+<related/>
+<alt></alt>
+<copyright></copyright>
+<description></description>
+<data grammarName="coremedia-richtext-1.0"><div xmlns="http://www.coremedia.com/2003/richtext-1.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p>&lt;!-- Go to www.addthis.com/dashboard to customize your tools --&gt;</p><p>&lt;script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55422b6f014e6704" async="async"&gt;&lt;/script&gt;</p><p>&lt;div class="cm-container cm-container--default" style="text-align: center;"&gt;&lt;div class="addthis_sharing_toolbox"&gt;&lt;/div&gt;</p><p>&lt;/div&gt;</p><p><br/></p></div></data>
+</CMHTML>

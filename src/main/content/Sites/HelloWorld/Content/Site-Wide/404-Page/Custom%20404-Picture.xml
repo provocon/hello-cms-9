@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMPicture folder="/Sites/@contentpath@/Content/Site-Wide/404-Page" name="Custom 404-Picture" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<localSettings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<StructProperty Name="focusArea">
+<Struct>
+<StringProperty Name="x1">0</StringProperty>
+<StringProperty Name="y1">0</StringProperty>
+<StringProperty Name="x2">1</StringProperty>
+<StringProperty Name="y2">1</StringProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="transforms">
+<Struct>
+<StringProperty Name="portrait_ratio20x31">b;a=0;c=1/crop;x=1282;y=1575;width=982;height=1521</StringProperty>
+<StringProperty Name="portrait_ratio3x4">b;a=0;c=1/crop;x=1240;y=1731;width=1024;height=1365</StringProperty>
+<StringProperty Name="portrait_ratio1x1">b;a=0;c=1/crop;x=725;y=1539;width=1557;height=1557</StringProperty>
+<StringProperty Name="landscape_ratio4x3">b;a=0;c=1/crop;x=611;y=1725;width=1826;height=1371</StringProperty>
+<StringProperty Name="landscape_ratio16x9">b;a=0;c=1/crop;x=287;y=1695;width=2491;height=1401</StringProperty>
+<StringProperty Name="landscape_ratio2x1">b;a=0;c=1/crop;x=174;y=1719;width=2755;height=1377</StringProperty>
+<StringProperty Name="landscape_ratio5x2">b;a=0;c=1/crop;x=0;y=1713;width=3096;height=1240</StringProperty>
+<StringProperty Name="landscape_ratio8x3">b;a=0;c=1/crop;x=0;y=1803;width=3096;height=1162</StringProperty>
+<StringProperty Name="landscape_ratio4x1">b;a=0;c=1/crop;x=0;y=1785;width=3096;height=773</StringProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="relative">
+<Struct>
+<StringProperty Name="portrait_ratio20x31">position;x1=0.41392649903288203;y1=0.5087040618955513;x2=0.7311411992263056;y2=1</StringProperty>
+<StringProperty Name="portrait_ratio3x4">position;x1=0.40038684719535783;y1=0.5589941972920697;x2=0.7311411992263056;y2=1</StringProperty>
+<StringProperty Name="portrait_ratio1x1">position;x1=0.23404255319148937;y1=0.49709864603481624;x2=0.7369439071566731;y2=1</StringProperty>
+<StringProperty Name="landscape_ratio4x3">position;x1=0.19729206963249515;y1=0.5570599613152805;x2=0.7872340425531915;y2=1</StringProperty>
+<StringProperty Name="landscape_ratio16x9">position;x1=0.09284332688588008;y1=0.5473887814313346;x2=0.8974854932301741;y2=1</StringProperty>
+<StringProperty Name="landscape_ratio2x1">position;x1=0.05609284332688588;y1=0.5551257253384912;x2=0.9458413926499033;y2=1</StringProperty>
+<StringProperty Name="landscape_ratio5x2">position;x1=0;y1=0.5531914893617021;x2=1;y2=0.9535783365570599</StringProperty>
+<StringProperty Name="landscape_ratio8x3">position;x1=0;y1=0.5822050290135397;x2=1;y2=0.9574468085106383</StringProperty>
+<StringProperty Name="landscape_ratio4x1">position;x1=0;y1=0.5764023210831721;x2=1;y2=0.8259187620889749</StringProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="isDefault">
+<Struct>
+<StringProperty Name="portrait_ratio20x31">false</StringProperty>
+<StringProperty Name="portrait_ratio3x4">false</StringProperty>
+<StringProperty Name="portrait_ratio1x1">false</StringProperty>
+<StringProperty Name="landscape_ratio4x3">false</StringProperty>
+<StringProperty Name="landscape_ratio16x9">false</StringProperty>
+<StringProperty Name="landscape_ratio2x1">false</StringProperty>
+<StringProperty Name="landscape_ratio5x2">false</StringProperty>
+<StringProperty Name="landscape_ratio8x3">false</StringProperty>
+<StringProperty Name="landscape_ratio4x1">false</StringProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="reflection">
+<Struct>
+<StringProperty Name="h">false</StringProperty>
+<StringProperty Name="v">false</StringProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="rotation">
+<Struct>
+<StringProperty Name="crude">0</StringProperty>
+<StringProperty Name="fine">0</StringProperty>
+</Struct>
+</StructProperty>
+<StructProperty Name="coloring">
+<Struct>
+<StringProperty Name="brightness">0</StringProperty>
+<StringProperty Name="contrast">1</StringProperty>
+</Struct>
+</StructProperty>
+</Struct></localSettings>
+<linkedSettings/>
+<resourceBundles2/>
+<segment></segment>
+<title>Sorry, not found!</title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription></htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle></teaserTitle>
+<pictures/>
+<related/>
+<alt>Image of a cute puppy with an empty food bowl - Food Not Found...</alt>
+<copyright></copyright>
+<dataUrl></dataUrl>
+<width>3096</width>
+<height>3096</height>
+<data href="Custom%20404-Picture.data.jpeg" mimetype="image/jpeg"/>
+<asset/>
+</CMPicture>

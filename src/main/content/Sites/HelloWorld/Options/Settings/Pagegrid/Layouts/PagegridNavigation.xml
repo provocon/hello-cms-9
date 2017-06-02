@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSettings folder="/Sites/@contentpath@/Options/Settings/Pagegrid/Layouts" name="PagegridNavigation" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<settings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<IntProperty Name="colCount">12</IntProperty>
+<IntProperty Name="rowCount">5</IntProperty>
+<StringProperty Name="cssClass">corporate-detailpage</StringProperty>
+<StructListProperty Name="items">
+<Struct>
+<BooleanProperty Name="editable">false</BooleanProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../Placements/header.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/header"/>
+<IntProperty Name="row">1</IntProperty>
+<IntProperty Name="col">1</IntProperty>
+<IntProperty Name="height">10</IntProperty>
+<IntProperty Name="width">100</IntProperty>
+<IntProperty Name="colspan">12</IntProperty>
+</Struct>
+<Struct>
+<BooleanProperty Name="editable">true</BooleanProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../Placements/above.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/above"/>
+<IntProperty Name="row">2</IntProperty>
+<IntProperty Name="col">1</IntProperty>
+<IntProperty Name="height">10</IntProperty>
+<IntProperty Name="width">100</IntProperty>
+<IntProperty Name="colspan">12</IntProperty>
+</Struct>
+<Struct>
+<BooleanProperty Name="editable">true</BooleanProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../Placements/main.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/main"/>
+<IntProperty Name="row">3</IntProperty>
+<IntProperty Name="col">1</IntProperty>
+<IntProperty Name="height">60</IntProperty>
+<IntProperty Name="width">100</IntProperty>
+<IntProperty Name="colspan">12</IntProperty>
+</Struct>
+<Struct>
+<BooleanProperty Name="editable">true</BooleanProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../Placements/below.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/below"/>
+<IntProperty Name="row">4</IntProperty>
+<IntProperty Name="col">1</IntProperty>
+<IntProperty Name="height">10</IntProperty>
+<IntProperty Name="width">100</IntProperty>
+<IntProperty Name="colspan">12</IntProperty>
+</Struct>
+<Struct>
+<BooleanProperty Name="editable">false</BooleanProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../Placements/footer.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/footer"/>
+<IntProperty Name="row">5</IntProperty>
+<IntProperty Name="col">1</IntProperty>
+<IntProperty Name="height">10</IntProperty>
+<IntProperty Name="width">100</IntProperty>
+<IntProperty Name="colspan">12</IntProperty>
+</Struct>
+</StructListProperty>
+<StringProperty Name="name">@sitetitle@ Detail Page Layout</StringProperty>
+<StringProperty Name="description">Single column layout with main, above and below placements.</StringProperty>
+</Struct></settings>
+<identifier></identifier>
+</CMSettings>

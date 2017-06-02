@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMChannel folder="/Sites/@contentpath@/Content/Homepage/Level 1-1" name="Navigation-Level 1-1" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<localSettings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+</Struct></localSettings>
+<linkedSettings/>
+<resourceBundles2/>
+<segment>level1-1</segment>
+<title>Navigation Level 1-1</title>
+<htmlTitle>Navigation Level 1-1</htmlTitle>
+<keywords></keywords>
+<htmlDescription>Level 1 sublevel 1 of the Navigation</htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle>Level 1-1</teaserTitle>
+<pictures/>
+<related/>
+<children><link href="Level%201-1-1/Navigation-Level%201-1-1.xml" path="/Sites/@contentpath@/Content/Homepage/Level%201-1/Level%201-1-1/Navigation-Level%201-1-1"/><link href="Level%201-1-2/Navigation-Level%201-1-2.xml" path="/Sites/@contentpath@/Content/Homepage/Level%201-1/Level%201-1-2/Navigation-Level%201-1-2"/></children>
+<javaScript/>
+<css/>
+<theme/>
+<placement><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<StructProperty Name="placements_2">
+<Struct>
+<LinkProperty Name="layout" LinkType="coremedia:///cap/contenttype/Document_" xlink:href="coremedia:///cap/resources/../../../Options/Settings/Pagegrid/Layouts/Detail-Page%20with%20Sidebar.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Layouts/Detail-Page%20with%20Sidebar"/>
+<StructProperty Name="placements">
+<Struct>
+</Struct>
+</StructProperty>
+</Struct>
+</StructProperty>
+<StructListProperty Name="placements">
+<Struct>
+<LinkListProperty Name="items" LinkType="coremedia:///cap/contenttype/CMTeasable">
+<Link xlink:href="coremedia:///cap/resources/LevelArticle.xml" cmexport:path="/Sites/@contentpath@/Content/Homepage/Level%201-1/LevelArticle"/>
+</LinkListProperty>
+<LinkProperty Name="section" LinkType="coremedia:///cap/contenttype/CMSymbol" xlink:href="coremedia:///cap/resources/../../../Options/Settings/Pagegrid/Placements/main.xml" cmexport:path="/Sites/@contentpath@/Options/Settings/Pagegrid/Placements/main"/>
+</Struct>
+</StructListProperty>
+</Struct></placement>
+<header/>
+<footer/>
+</CMChannel>

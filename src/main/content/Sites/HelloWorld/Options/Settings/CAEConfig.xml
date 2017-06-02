@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSettings folder="/Sites/@contentpath@/Options/Settings" name="CAEConfig" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<settings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
+<StringListProperty Name="viewRepositoryNames">
+<String>corporate</String>
+</StringListProperty>
+<IntProperty Name="teaser.max.length">140</IntProperty>
+<IntProperty Name="text.max.length">450</IntProperty>
+<IntProperty Name="claim.max.length">115</IntProperty>
+<IntProperty Name="hero.max.length">140</IntProperty>
+<IntProperty Name="superhero.max.length">140</IntProperty>
+<IntProperty Name="square.max.length">140</IntProperty>
+<BooleanProperty Name="breadcrumbHideLastElement">true</BooleanProperty>
+<StringProperty Name="sitemapOrgConfiguration">corporate</StringProperty>
+</Struct></settings>
+<identifier></identifier>
+</CMSettings>

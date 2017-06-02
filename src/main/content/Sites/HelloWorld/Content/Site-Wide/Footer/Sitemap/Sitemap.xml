@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSitemap folder="/Sites/@contentpath@/Content/Site-Wide/Footer/Sitemap" name="Sitemap" xmlns:cmexport="http://www.coremedia.com/2012/cmexport">
+<locale>@locale@</locale>
+<master/>
+<viewtype/>
+<linkedSettings/>
+<resourceBundles2/>
+<segment></segment>
+<title>Sitemap</title>
+<htmlTitle></htmlTitle>
+<keywords></keywords>
+<htmlDescription></htmlDescription>
+<subjectTaxonomy/>
+<locationTaxonomy/>
+<contexts/>
+<teaserTitle>Sitemap</teaserTitle>
+<pictures/>
+<related/>
+<root><link href="../../../Homepage/Homepage.xml" path="/Sites/@contentpath@/Content/Homepage/Homepage"/></root>
+</CMSitemap>
