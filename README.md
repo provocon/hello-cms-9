@@ -13,8 +13,9 @@ The Corporate Site Demo content may reside next to this.
 
 The content for even the smallest Site needs to have the following items set
 
-* A base name - hello world as a default in this case
-* A local - we chose the en-US for this example
+* A base name - "Hello World" as a default in this case
+* A locale - we chose the de-DE for this example
+* A base path - /Sites/HelloWorld as our default
 
 So alongside with the content describing files, this workspace contains the
 tooling to prepare base names, locales and base folders before packaging
@@ -44,6 +45,8 @@ Also the paths can be modified:
 ```
 gradle -Pcontentpath=HelloWorld/UnitedStates/English build
 ```
+
+Of course the prefix /Sites is constant.
 
 Likewise the site Code and Title can be changed:
 
