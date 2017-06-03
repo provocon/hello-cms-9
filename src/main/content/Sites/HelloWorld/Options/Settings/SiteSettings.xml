@@ -7,12 +7,12 @@
 <Struct>
 <StructListProperty Name="live">
 <Struct>
-<StringProperty Name="urlPrefix">${blueprint.site.mapping.corporate}</StringProperty>
+<StringProperty Name="urlPrefix">${blueprint.site.mapping.@sitemapping@}</StringProperty>
 </Struct>
 </StructListProperty>
 <StructListProperty Name="preview">
 <Struct>
-<StringProperty Name="urlPrefix">${blueprint.site.mapping.corporate}</StringProperty>
+<StringProperty Name="urlPrefix">${blueprint.site.mapping.@sitemapping@}</StringProperty>
 </Struct>
 </StructListProperty>
 </Struct>

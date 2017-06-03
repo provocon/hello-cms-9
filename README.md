@@ -53,3 +53,22 @@ Likewise the site Code and Title can be changed:
 ```
 gradle -Ptitle="Hello Globe" build
 ```
+
+This results in a short title of "HelloGlobe" and a URL root segment of 
+`helloglobe` which is also used for the host name mapping.
+
+Those derived values can be overridden with:
+
+```
+gradle -Prootsegment=hello build
+```
+
+```
+gradle -Pshorttitle=hello build
+```
+
+To set the host mapping base value use the following property:
+
+```
+gradle -Psitemapping=helloagain build
+```
