@@ -32,7 +32,7 @@ def rootsegment=shorttitle.toLowerCase()
 def sitemapping=(project.hasProperty('sitemapping') ? "$sitemapping" : rootsegment).toString()
 
 def uuid="$contentpath:$locale:$shorttitle"
-def siteid=uuid.bytes.encodeBase64().toString()
+def siteid=""+(uuid.hashCode()<0?-uuid.hashCode():uuid.hashCode())
 
 distZip.doFirst {
   println ""
@@ -63,7 +63,7 @@ distributions {
       into ('') {
         from 'src/main'
         include '**/*.xml'
-        filter(ReplaceTokens, tokens: [locale: locale, contentpath: contentpath, shorttitle: shorttitle, sitetitle: title, rootsegment: rootsegment, siteid: siteid])
+        filter(ReplaceTokens, tokens: [locale: locale, contentpath: contentpath, shorttitle: shorttitle, sitetitle: title, rootsegment: rootsegment, siteid: siteid, sitemapping: sitemapping])
       }
       into ('') {
         from 'src/main'
