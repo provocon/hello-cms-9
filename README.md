@@ -34,7 +34,7 @@ gradle build
 Modify the locale to english in the US:
 
 ```
-gradle -Plocale=en-UE build
+gradle -Plocale=en-US build
 ```
 
 This doesn't change the content but the locale setting in each of the 
