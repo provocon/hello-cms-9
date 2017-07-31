@@ -58,7 +58,7 @@ sourceSets {
 
 distributions {
   main {
-    baseName = "helloWorld"
+    baseName = "$shorttitle-$locale"
     contents {
       into ('') {
         from 'src/main'
