@@ -4,7 +4,6 @@
 <master/>
 <settings><Struct xmlns="http://www.coremedia.com/2008/struct" xmlns:xlink="http://www.w3.org/1999/xlink">
 <StringListProperty Name="viewRepositoryNames">
-<String>corporate</String>
 </StringListProperty>
 <IntProperty Name="teaser.max.length">140</IntProperty>
 <IntProperty Name="text.max.length">450</IntProperty>

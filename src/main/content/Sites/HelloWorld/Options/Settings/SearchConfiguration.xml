@@ -17,7 +17,7 @@
 <String>CMSitemap</String>
 <String>CMVideo</String>
 </StringListProperty>
-<StringProperty Name="caefeederSiteConfiguration">corporate</StringProperty>
+<StringProperty Name="caefeederSiteConfiguration">@shorttitle@</StringProperty>
 </Struct></settings>
 <identifier></identifier>
 </CMSettings>
