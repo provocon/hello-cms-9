@@ -28,7 +28,7 @@ def title = (project.hasProperty('title') ? "$title" : 'Hello World').toString()
 // Optionally override the short title
 def shorttitle = (project.hasProperty('shorttitle') ? "$shorttitle" : title.replace(" ", "")).toString()
 
-def rootsegment=shorttitle.toLowerCase()
+def rootsegment=(project.hasProperty('rootsegment') ? "$rootsegment" : shorttitle.toLowerCase()).toString()
 def sitemapping=(project.hasProperty('sitemapping') ? "$sitemapping" : rootsegment).toString()
 
 def uuid="$contentpath:$locale:$shorttitle"
@@ -37,7 +37,7 @@ def siteid=""+(uuid.hashCode()<0?-uuid.hashCode():uuid.hashCode())
 distZip.doFirst {
   println ""
   println "Creating content set $title with a short title of $shorttitle, a URL root segment of $rootsegment"
-  println "  for the local $locale in path /Sites/${contentpath}."
+  println "  for the locale $locale in path /Sites/${contentpath}."
   println "  The URL mapping is done via ${sitemapping}."
   println "  The site id of $siteid is derived from the values ${uuid}."
   println ""
