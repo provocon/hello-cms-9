@@ -1,12 +1,19 @@
 # Configurable Hello World Content
 
-A Hello World content set as a minimal demo site or a starting point to set up 
-a new site in an otherwise empty system.
+A Hello World content set as a minimal demo site or a starting point. You can
+use it to set up a new site next to existing ones or even in an otherwise empty
+system.
 
 Of course global base content and themes must be available and the theme in use 
 defaults to the `corporate-theme`.
 
-The Corporate Site Demo content may reside next to this.
+Other Demo content may reside next to this.
+
+
+## Feedback
+
+Please use the [issues][issues] section of this repository at [github][github]
+for feedback.
 
 
 ## Configure Content
@@ -72,3 +79,6 @@ To set the host mapping base value use the following property:
 ```
 gradle -Psitemapping=helloagain build
 ```
+
+[issues]: https://github.com/provocon/hello-cms-9/issues
+[github]: https://github.com/provocon/hello-cms-9
