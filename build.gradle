@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 Martin Goellnitz for PROVOCON.
+ * Copyright 2017-2026 Martin Goellnitz for PROVOCON.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -58,7 +58,7 @@ sourceSets {
 
 distributions {
   main {
-    baseName = "$shorttitle-$locale"
+    distributionBaseName = "$shorttitle-$locale"
     contents {
       into ('') {
         from 'src/main'
